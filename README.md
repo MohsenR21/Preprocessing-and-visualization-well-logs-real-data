@@ -1,4 +1,4 @@
-<h1>Principal Component Analysis (PCA)</h1>
-<p>Datasets with many features can pose challenges for machine learning. Adding features can result in sparser data points, offering less information because of the decreased distance between them, making it harder to distinguish between close and distant points. This phenomenon, is known as the curse of dimensionality. PCA is an unsupervised algorithm used to reduce dimensionality while retaining as much information as possible.</p>
+<h1>Preprocessing and visualization (well logs real data) </h1>
+<p>This case study highlights challenges in machine learning posed by datasets with many features. Adding features can create sparser data points, reducing the information they provide and making it difficult to differentiate between similar and distant points, this phenomenon known as the curse of dimensionality. Therefore, this study aims to reduce dimensionality while preserving as much information as possible through preprocessing and visualization.</p>
 <h2>Case Study</h2>
-<p>In this case study we apply PCA algorithm from both sklearn library and pca package on the set of data log.</p>
+<p>In this case study we apply PCA algorithm to reduce dimensionality from both sklearn library and pca package on the set of data log.</p>
